@@ -1,1 +1,2 @@
 c:\users\domingos fernandes\documents\visual studio 2015\Projects\DirectorySizeUtility\DirectorySizeUtility\bin\Debug\DirectorySizeUtility.exe.config
+C:\Users\JWunz\Documents\NU\CSC160\DirectorySizeTree\DirectorySizeUtility\DirectorySizeUtility\DirectorySizeUtility\bin\Debug\DirectorySizeUtility.exe.config
