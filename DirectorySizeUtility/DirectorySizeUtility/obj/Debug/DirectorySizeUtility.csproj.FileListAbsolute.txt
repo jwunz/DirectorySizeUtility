@@ -1,2 +1,16 @@
 c:\users\domingos fernandes\documents\visual studio 2015\Projects\DirectorySizeUtility\DirectorySizeUtility\bin\Debug\DirectorySizeUtility.exe.config
 C:\Users\JWunz\Documents\NU\CSC160\DirectorySizeTree\DirectorySizeUtility\DirectorySizeUtility\DirectorySizeUtility\bin\Debug\DirectorySizeUtility.exe.config
+C:\Users\Domingos Fernandes\Desktop\Timesheet\Project 2\DirectorySizeUtility\DirectorySizeUtility\DirectorySizeUtility\bin\Debug\DirectorySizeUtility.exe.config
+C:\Users\Domingos Fernandes\Desktop\Timesheet\Project 2\DirectorySizeUtility\DirectorySizeUtility\DirectorySizeUtility\bin\Debug\DirectorySizeUtility.exe
+C:\Users\Domingos Fernandes\Desktop\Timesheet\Project 2\DirectorySizeUtility\DirectorySizeUtility\DirectorySizeUtility\bin\Debug\DirectorySizeUtility.pdb
+C:\Users\Domingos Fernandes\Desktop\Timesheet\Project 2\DirectorySizeUtility\DirectorySizeUtility\DirectorySizeUtility\obj\Debug\DirectorySizeUtility.csprojResolveAssemblyReference.cache
+C:\Users\Domingos Fernandes\Desktop\Timesheet\Project 2\DirectorySizeUtility\DirectorySizeUtility\DirectorySizeUtility\obj\Debug\MainWindow.g.cs
+C:\Users\Domingos Fernandes\Desktop\Timesheet\Project 2\DirectorySizeUtility\DirectorySizeUtility\DirectorySizeUtility\obj\Debug\App.g.cs
+C:\Users\Domingos Fernandes\Desktop\Timesheet\Project 2\DirectorySizeUtility\DirectorySizeUtility\DirectorySizeUtility\obj\Debug\DirectorySizeUtility_MarkupCompile.cache
+C:\Users\Domingos Fernandes\Desktop\Timesheet\Project 2\DirectorySizeUtility\DirectorySizeUtility\DirectorySizeUtility\obj\Debug\DirectorySizeUtility_MarkupCompile.lref
+C:\Users\Domingos Fernandes\Desktop\Timesheet\Project 2\DirectorySizeUtility\DirectorySizeUtility\DirectorySizeUtility\obj\Debug\MainWindow.baml
+C:\Users\Domingos Fernandes\Desktop\Timesheet\Project 2\DirectorySizeUtility\DirectorySizeUtility\DirectorySizeUtility\obj\Debug\DirectorySizeUtility.g.resources
+C:\Users\Domingos Fernandes\Desktop\Timesheet\Project 2\DirectorySizeUtility\DirectorySizeUtility\DirectorySizeUtility\obj\Debug\DirectorySizeUtility.Properties.Resources.resources
+C:\Users\Domingos Fernandes\Desktop\Timesheet\Project 2\DirectorySizeUtility\DirectorySizeUtility\DirectorySizeUtility\obj\Debug\DirectorySizeUtility.csproj.GenerateResource.Cache
+C:\Users\Domingos Fernandes\Desktop\Timesheet\Project 2\DirectorySizeUtility\DirectorySizeUtility\DirectorySizeUtility\obj\Debug\DirectorySizeUtility.exe
+C:\Users\Domingos Fernandes\Desktop\Timesheet\Project 2\DirectorySizeUtility\DirectorySizeUtility\DirectorySizeUtility\obj\Debug\DirectorySizeUtility.pdb

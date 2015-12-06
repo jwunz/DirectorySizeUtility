@@ -6,7 +6,11 @@
         xmlns:local="clr-namespace:DirectorySizeUtility"
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
-    <Grid>
-        
-    </Grid>
+    <StackPanel>
+        <UniformGrid Rows="1" Columns="2">
+            <TextBox x:Name="SearchBox" />
+            <Button Width="100">Search</Button>
+            </UniformGrid>
+    </StackPanel>
+    
 </Window>
