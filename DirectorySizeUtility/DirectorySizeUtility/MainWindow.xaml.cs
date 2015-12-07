@@ -38,7 +38,7 @@ namespace DirectorySizeUtility
 
             this.ROOT_SIZE = DirSize(item);
 
-            root.Header = String.Format("{0}Kb -- {1} : {2}", ROOT_SIZE / 1000, item.Name, PercentageOfParent(ROOT_SIZE));
+            root.Header = String.Format("{0} -- {1}Kb : {2}", item.Name, ROOT_SIZE / 1000, PercentageOfParent(ROOT_SIZE));
             FileExplorer.Items.Add(root);
 
             Dig(item, root);
@@ -105,8 +105,8 @@ namespace DirectorySizeUtility
 
                     long itemsize = DirSize(item);
 
-                    subitem.Header = String.Format("{0}Kb -- {1} : {2}", (itemsize / 1000), item.Name, PercentageOfParent(itemsize));
-                    //subitem.Header = String.Format("{0}Kb -- {1}", (itemsize / 1000), item.Name);
+                    subitem.Header = String.Format("{0} -- {1}Kb : {2}", item.Name, (itemsize / 1000), PercentageOfParent(itemsize));
+                    //subitem.Header = String.Format("{0} -- {1}Kb", (itemsize / 1000), item.Name);
 
                     t.Items.Add(subitem);
 
@@ -114,7 +114,7 @@ namespace DirectorySizeUtility
                 }
                 foreach (FileInfo item in dir.EnumerateFiles()) {
                     var subitem = new TreeViewItem();
-                    subitem.Header = String.Format("{0}Kb -- {1} : {2}", (item.Length / 1000), item.Name, PercentageOfParent(item.Length));
+                    subitem.Header = String.Format("{0} -- {1}Kb : {2}", item.Name, (item.Length / 1000), PercentageOfParent(item.Length));
 
                     t.Items.Add(subitem);
                 }
