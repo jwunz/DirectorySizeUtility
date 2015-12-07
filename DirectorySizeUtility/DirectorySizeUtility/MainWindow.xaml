@@ -10,7 +10,9 @@
         <UniformGrid Rows="1" Columns="2">
             <TextBox x:Name="SearchBox" />
             <Button Width="100">Search</Button>
-            </UniformGrid>
+        </UniformGrid>
+        <Canvas>
+            
+        </Canvas>
     </StackPanel>
-    
 </Window>
