@@ -5,14 +5,27 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:DirectorySizeUtility"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
-    <StackPanel>
-        <UniformGrid Rows="1" Columns="2">
-            <TextBox x:Name="SearchBox" />
-            <Button Width="100">Search</Button>
-        </UniformGrid>
-        <Canvas>
-            
-        </Canvas>
+        Title="MainWindow" Height="350" Width="525"
+        x:Name="WindowIsh">
+    <Window.Resources>
+        <local:HeightConverter x:Key="HeightConverter" />
+        <local:HeightConverter2 x:Key="HeightConverter2" />
+    </Window.Resources>
+    <StackPanel x:Name="Container" Background="#aaa" Height="{Binding ElementName=WindowIsh, Path=ActualHeight, Converter={StaticResource HeightConverter2}}">
+        <DockPanel x:Name="SearchBar">
+            <TextBox x:Name="SearchBox" Text="C:\Test\" Width="218">
+                <TextBox.InputBindings>
+                    <KeyBinding Key="Enter" Command="{Binding SearchCommand}" />
+                </TextBox.InputBindings>
+            </TextBox>
+            <Button x:Name="SearchButton" Width="100" Click="SearchButton_Click" HorizontalAlignment="Right" VerticalAlignment="Center" Content="Search"/>
+        </DockPanel>
+        <TreeView x:Name="FileExplorer" Height="{Binding ElementName=Container, Path=Height, Converter={StaticResource HeightConverter}}" Background="White">
+            <!--<TreeView.ItemTemplate>
+                <HierarchicalDataTemplate>
+                    <Label Content="{Binding}"></Label>
+                </HierarchicalDataTemplate>
+            </TreeView.ItemTemplate>-->
+        </TreeView>
     </StackPanel>
 </Window>

@@ -14,3 +14,18 @@ C:\Users\Domingos Fernandes\Desktop\Timesheet\Project 2\DirectorySizeUtility\Dir
 C:\Users\Domingos Fernandes\Desktop\Timesheet\Project 2\DirectorySizeUtility\DirectorySizeUtility\DirectorySizeUtility\obj\Debug\DirectorySizeUtility.csproj.GenerateResource.Cache
 C:\Users\Domingos Fernandes\Desktop\Timesheet\Project 2\DirectorySizeUtility\DirectorySizeUtility\DirectorySizeUtility\obj\Debug\DirectorySizeUtility.exe
 C:\Users\Domingos Fernandes\Desktop\Timesheet\Project 2\DirectorySizeUtility\DirectorySizeUtility\DirectorySizeUtility\obj\Debug\DirectorySizeUtility.pdb
+C:\Users\Tenurian\Dropbox\Neumont\dotNET\DirectorySizeUtility\DirectorySizeUtility\DirectorySizeUtility\bin\Debug\DirectorySizeUtility.exe.config
+C:\Users\Tenurian\Dropbox\Neumont\dotNET\DirectorySizeUtility\DirectorySizeUtility\DirectorySizeUtility\obj\Debug\DirectorySizeUtility.csprojResolveAssemblyReference.cache
+C:\Users\Tenurian\Dropbox\Neumont\dotNET\DirectorySizeUtility\DirectorySizeUtility\DirectorySizeUtility\obj\Debug\MainWindow.g.cs
+C:\Users\Tenurian\Dropbox\Neumont\dotNET\DirectorySizeUtility\DirectorySizeUtility\DirectorySizeUtility\obj\Debug\App.g.cs
+C:\Users\Tenurian\Dropbox\Neumont\dotNET\DirectorySizeUtility\DirectorySizeUtility\DirectorySizeUtility\obj\Debug\DirectorySizeUtility_MarkupCompile.cache
+C:\Users\Tenurian\Dropbox\Neumont\dotNET\DirectorySizeUtility\DirectorySizeUtility\DirectorySizeUtility\obj\Debug\DirectorySizeUtility_MarkupCompile.lref
+C:\Users\Tenurian\Dropbox\Neumont\dotNET\DirectorySizeUtility\DirectorySizeUtility\DirectorySizeUtility\bin\Debug\DirectorySizeUtility.exe
+C:\Users\Tenurian\Dropbox\Neumont\dotNET\DirectorySizeUtility\DirectorySizeUtility\DirectorySizeUtility\bin\Debug\DirectorySizeUtility.pdb
+C:\Users\Tenurian\Dropbox\Neumont\dotNET\DirectorySizeUtility\DirectorySizeUtility\DirectorySizeUtility\obj\Debug\MainWindow.baml
+C:\Users\Tenurian\Dropbox\Neumont\dotNET\DirectorySizeUtility\DirectorySizeUtility\DirectorySizeUtility\obj\Debug\DirectorySizeUtility.g.resources
+C:\Users\Tenurian\Dropbox\Neumont\dotNET\DirectorySizeUtility\DirectorySizeUtility\DirectorySizeUtility\obj\Debug\DirectorySizeUtility.Properties.Resources.resources
+C:\Users\Tenurian\Dropbox\Neumont\dotNET\DirectorySizeUtility\DirectorySizeUtility\DirectorySizeUtility\obj\Debug\DirectorySizeUtility.csproj.GenerateResource.Cache
+C:\Users\Tenurian\Dropbox\Neumont\dotNET\DirectorySizeUtility\DirectorySizeUtility\DirectorySizeUtility\obj\Debug\DirectorySizeUtility.exe
+C:\Users\Tenurian\Dropbox\Neumont\dotNET\DirectorySizeUtility\DirectorySizeUtility\DirectorySizeUtility\obj\Debug\DirectorySizeUtility.pdb
+C:\Users\Tenurian\Dropbox\Neumont\dotNET\DirectorySizeUtility\DirectorySizeUtility\DirectorySizeUtility\obj\Debug\GeneratedInternalTypeHelper.g.cs
